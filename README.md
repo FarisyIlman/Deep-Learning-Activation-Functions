@@ -1,0 +1,1 @@
+This project demonstrates the differences between activation functions using the diabetes dataset, identifies which method performs better, and provides a comparison between different activation functions.
